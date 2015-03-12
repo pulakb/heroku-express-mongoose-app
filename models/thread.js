@@ -5,7 +5,6 @@ var mongoose = require('mongoose')
 
 var threadSchema = new Schema({
     title:  String,
-    postdate: {type: Date, default: Date.now},
     author: {type: String, default: 'Anon'}
 });
 
