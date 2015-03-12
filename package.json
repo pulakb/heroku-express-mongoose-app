@@ -1,5 +1,6 @@
 {
-  "name": "express-mongoose-heroku",
+  "name": "heroku-express-mongoose-app",
+  "author": "Pulak",
   "version": "0.0.1",
   "dependencies" : {
     "express"         : "~4.6.1",
